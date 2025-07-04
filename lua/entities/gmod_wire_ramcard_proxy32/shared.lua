@@ -5,7 +5,7 @@ ENT.PrintName	= "Proxy (32KB / 100U)"
 ENT.Author		= "Free Fall"
 ENT.Contact		= ""
 ENT.Information	= "A Proxy RAM-Card"
-ENT.Category	= "RAM-Cards (Wire)"
+ENT.Category	= "Wiremod"
 
 ENT.Spawnable = true
 ENT.AdminSpawnable = true

@@ -5,7 +5,7 @@ ENT.PrintName	= "Default (64KB)"
 ENT.Author		= "Free Fall"
 ENT.Contact		= ""
 ENT.Information	= "The Default RAM-Card"
-ENT.Category	= "RAM-Cards (Wire)"
+ENT.Category	= "Wiremod"
 
 ENT.Spawnable = true
 ENT.AdminSpawnable = true
